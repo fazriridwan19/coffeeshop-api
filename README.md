@@ -16,7 +16,7 @@ Database schema :
 
    ```sh
    git clone https://github.com/fazriridwan19/coffeeshop-api.git
-   cd coffeeshop-api.git
+   cd coffeeshop-api
    ```
 2. **Create database objects**
 
