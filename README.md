@@ -7,7 +7,7 @@ Apart from this, i have used JSON Web Token (JWT) for authentication and authori
 
 Database schema :
 
-![db schema]()
+![db schema](https://github.com/fazriridwan19/coffeeshop-api/blob/main/download.png)
 
 
 ## Setup and Installation
@@ -26,8 +26,8 @@ Database schema :
      docker container run --name postgresdb -e POSTGRES_PASSWORD=admin -d -p 5432:5432 postgres
      ```
 3. **Create database objects**
+
    Create schema with name **coffeshop**
-     ```
 4. **Update database configurations in application.properties**
    
    If your database is hosted at some cloud platform or if you have modified the SQL script file with some different username and password, update the src/main/resources/application.properties file accordingly:
