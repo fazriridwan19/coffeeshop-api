@@ -7,7 +7,7 @@ Apart from this, i have used JSON Web Token (JWT) for authentication and authori
 
 Database schema :
 
-![db schema](https://github.com/fazriridwan19/coffeeshop-api/blob/main/download.png)
+![db schema](https://github.com/fazriridwan19/coffeeshop-api/blob/main/db.png)
 
 
 ## Setup and Installation
